@@ -1,0 +1,12 @@
+
+> web@1.0.0 start C:\itc\apps\web
+> next start -p 3000
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1134ms
+ ELIFECYCLE  Command failed with exit code 1.
+
+C:\itc\apps\web>

@@ -1,0 +1,20 @@
+{
+  "name": "itc-portal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint",
+    "clean": "turbo clean",
+    "db:push": "pnpm --filter @itc/db db:push",
+    "db:generate": "pnpm --filter @itc/db db:generate",
+    "db:migrate": "pnpm --filter @itc/db db:migrate",
+    "db:seed": "pnpm --filter @itc/db db:seed"
+  },
+  "devDependencies": {
+    "turbo": "^2.1.2",
+    "typescript": "^5.6.2"
+  },
+  "packageManager": "pnpm@9.11.0"
+}

@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "features": "Features",
+    "schedule": "Schedule",
+    "login": "Sign In"
+  },
+  "hero": {
+    "eyebrow": "IT Club Task Portal",
+    "title": "Assignments, Attendance, and Progress — All in One Place.",
+    "subtext": "Submit assignments, track grades, and see contribution ranking. The official portal for IT Club at SMK Negeri 1 Surabaya.",
+    "ctaPrimary": "Sign In",
+    "ctaSecondary": "Join the Club",
+    "toolsLabel": "Integrated with",
+    "tools": ["GITHUB", "FIGMA", "GOOGLE DRIVE", "VS CODE"],
+    "cards": [
+      { "title": "React Native Assignment", "meta": "On Time", "done": true },
+      { "title": "Meeting Attendance #12", "meta": "Present", "done": true },
+      { "title": "Ranking Up to #3", "meta": "This Week", "done": true }
+    ]
+  },
+  "platform": {
+    "eyebrow": "Built for the Club",
+    "title": "One Portal. Every Club Need.",
+    "lead": "From assignment submission to attendance recaps, everything runs in one place. Members know what to do, board members know who has submitted.",
+    "cards": ["GITHUB", "FIGMA", "GOOGLE DRIVE"],
+    "items": [
+      {
+        "title": "Member Dashboard",
+        "desc": "Active assignments, points, and ranking on a single screen.",
+        "bullets": ["Upcoming tasks", "Your points", "Current rank", "Latest notifications"]
+      },
+      {
+        "title": "Assignment Submission",
+        "desc": "Upload a file or paste a link, with deadlines always in view.",
+        "bullets": ["Uploads up to 100 MB", "GitHub / Drive links", "Edit before deadline", "Real-time status"]
+      },
+      {
+        "title": "Meeting Attendance",
+        "desc": "Attendance per session, recapped without re-checking lists.",
+        "bullets": ["Weekly sessions", "Mark as present", "Attendance history", "Automatic recap"]
+      },
+      {
+        "title": "Recap & Ranking",
+        "desc": "Points are computed from on-time submissions and attendance.",
+        "bullets": ["Task points", "Attendance points", "Member ranking", "Average score"]
+      },
+      {
+        "title": "Notifications",
+        "desc": "New assignments and approaching deadlines land in your inbox.",
+        "bullets": ["New assignments", "Deadline tomorrow", "Grades published", "Club updates"]
+      },
+      {
+        "title": "Announcements & Gallery",
+        "desc": "Official board news and activity documentation, visible publicly.",
+        "bullets": ["Official announcements", "Activity schedule", "Photo gallery", "Open to the public"]
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "What's Inside",
+    "title": "Relax, Every Assignment Is Handled.",
+    "lead": "The four things that usually cause friction in a club, solved from day one.",
+    "cta": "See All Features",
+    "items": [
+      { "no": "01", "title": "Assignment Submission", "subtitle": "Upload file & link, clear deadlines", "desc": "Submit tasks via file or link. Deadlines are always visible, so nothing gets missed without you realizing." },
+      { "no": "02", "title": "Grading & Feedback", "subtitle": "Scores and notes from the board", "desc": "Board members give scores with notes. You know exactly what fell short and how to improve it." },
+      { "no": "03", "title": "Meeting Attendance", "subtitle": "Check in for every session", "desc": "Every meeting is logged cleanly. Attendance history is ready whenever it is needed." },
+      { "no": "04", "title": "Member Ranking", "subtitle": "Points from timeliness and attendance", "desc": "Ranking is computed from on-time submissions and attendance, updated automatically." }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "From the Members",
+    "title": "Collaboration gets clear when everyone knows what to do.",
+    "lead": "IT Club members on how the way they work changed since this portal went live.",
+    "cta": "Join Now",
+    "items": [
+      { "name": "Rani Putri", "role": "Club Chair", "quote": "One place for every assignment. No more chasing people over chat, and nothing slips through." },
+      { "name": "Dimas Prasetyo", "role": "Web Division Lead", "quote": "Deadlines are visible from the start, so the team can plan weekly without guesswork." },
+      { "name": "Ayu Lestari", "role": "Grade XII Member", "quote": "Grades and notes arrive right away. I know exactly what to improve next." }
+    ]
+  },
+  "integrations": {
+    "eyebrow": "Connected",
+    "title": "The tools you already use, all connected.",
+    "lead": "Link GitHub, Figma, and Google Drive so submissions no longer scatter across places.",
+    "cta": "Connect Account"
+  },
+  "footer": {
+    "eyebrow": "Built for SMKN 1",
+    "title": "Start with the first assignment.",
+    "lead": "Enter your email to get early access to the IT Club portal.",
+    "placeholder": "Email address",
+    "columns": [
+      { "title": "Navigation", "links": ["Home", "About", "Features", "Schedule"] },
+      { "title": "Product", "links": ["Portal", "Attendance", "Ranking", "Announcements"] },
+      { "title": "Resources", "links": ["Guide", "FAQ", "Contact", "Task Guide"] },
+      { "title": "Other", "links": ["Instagram", "WhatsApp", "GitHub", "YouTube"] }
+    ],
+    "rights": "© 2026 IT CLUB SMKN 1 SURABAYA",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "status": {
+    "pending": "Pending",
+    "accepted": "Accepted",
+    "rejected": "Rejected",
+    "graded": "Graded",
+    "late": "Late",
+    "missing": "Missing"
+  }
+}

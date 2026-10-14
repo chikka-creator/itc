@@ -1,0 +1,17 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8FAA7A"/>
+      <stop offset="50%" stop-color="#7C8C6B"/>
+      <stop offset="100%" stop-color="#5F6E52"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="40%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#C6D6B4" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#C6D6B4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="500" fill="url(#g)"/>
+  <rect width="1600" height="500" fill="url(#glow)"/>
+  <text x="800" y="250" text-anchor="middle" font-family="system-ui, sans-serif" font-size="64" fill="#FFFFFF" fill-opacity="0.3">&#10035;</text>
+  <text x="800" y="300" text-anchor="middle" font-family="system-ui, sans-serif" font-size="15" font-weight="500" letter-spacing="4" fill="#FFFFFF" fill-opacity="0.5">&#8226; FOTO &#8226; KAMPUS SMKN 1 SURABAYA &#8226;</text>
+</svg>

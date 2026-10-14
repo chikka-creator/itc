@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "features": "Fitur",
+    "schedule": "Jadwal",
+    "login": "Masuk Dashboard"
+  },
+  "hero": {
+    "eyebrow": "Portal Tugas IT Club",
+    "title": "Tugas, Absensi, dan Prestasi — Semua di Satu Tempat.",
+    "subtext": "Kumpulkan tugas, pantau nilai, dan lihat peringkat kontribusi. Portal resmi ekskul IT Club SMK Negeri 1 Surabaya.",
+    "ctaPrimary": "Masuk Dashboard",
+    "ctaSecondary": "Gabung Ekskul",
+    "toolsLabel": "Terintegrasi dengan",
+    "tools": ["GITHUB", "FIGMA", "GOOGLE DRIVE", "VS CODE"],
+    "cards": [
+      { "title": "Tugas React Native", "meta": "Tepat Waktu", "done": true },
+      { "title": "Absensi Pertemuan #12", "meta": "Hadir", "done": true },
+      { "title": "Peringkat Naik ke #3", "meta": "Pekan Ini", "done": true }
+    ]
+  },
+  "platform": {
+    "eyebrow": "Dibuat untuk Ekskul",
+    "title": "Satu Portal. Semua Kebutuhan Ekskul.",
+    "lead": "Dari pengumpulan tugas sampai rekap kehadiran, semuanya berjalan di satu tempat. Anggota tahu apa yang harus dikerjakan, pengurus tahu siapa yang sudah mengumpulkan.",
+    "cards": ["GITHUB", "FIGMA", "GOOGLE DRIVE"],
+    "items": [
+      {
+        "title": "Dashboard Anggota",
+        "desc": "Ringkasan tugas aktif, poin, dan peringkat dalam satu layar.",
+        "bullets": ["Tugas mendatang", "Poin kamu", "Peringkat saat ini", "Notifikasi terbaru"]
+      },
+      {
+        "title": "Pengumpulan Tugas",
+        "desc": "Unggah file atau tempel link, batas waktu selalu terlihat jelas.",
+        "bullets": ["Upload file hingga 100 MB", "Link GitHub / Drive", "Ubah sebelum deadline", "Status real-time"]
+      },
+      {
+        "title": "Absensi Pertemuan",
+        "desc": "Rekap kehadiran setiap sesi ekskul tanpa daftar ulang.",
+        "bullets": ["Sesi per pekan", "Tandai hadir", "Riwayat kehadiran", "Rekap otomatis"]
+      },
+      {
+        "title": "Rekap & Rangking",
+        "desc": "Poin dihitung dari ketepatan waktu mengumpulkan dan kehadiran.",
+        "bullets": ["Poin tugas", "Poin kehadiran", "Peringkat anggota", "Rata-rata nilai"]
+      },
+      {
+        "title": "Notifikasi",
+        "desc": "Pemberitahuan tugas baru dan mendekati batas waktu langsung masuk.",
+        "bullets": ["Tugas baru", "Deadline besok", "Nilai terbit", "Info ekskul"]
+      },
+      {
+        "title": "Pengumuman & Galeri",
+        "desc": "Info resmi pengurus dan dokumentasi kegiatan bisa dilihat publik.",
+        "bullets": ["Pengumuman resmi", "Jadwal kegiatan", "Galeri foto", "Terbuka untuk publik"]
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Apa Saja di Dalamnya",
+    "title": "Tenang, Semua Urusan Tugas Terkelola.",
+    "lead": "Empat hal yang paling sering bikin ribet di ekskul, sudah ditangani sejak awal.",
+    "cta": "Lihat Semua Fitur",
+    "items": [
+      { "no": "01", "title": "Pengumpulan Tugas", "subtitle": "Upload file & link, batas waktu jelas", "desc": "Kumpulkan tugas lewat file atau link. Batas waktu selalu terlihat, jadi tidak ada alasan terlambat tanpa sadar." },
+      { "no": "02", "title": "Penilaian & Umpan Balik", "subtitle": "Nilai dan catatan dari pengurus", "desc": "Pengurus memberi nilai beserta catatan. Kamu tahu apa yang kurang dan bagaimana memperbaikinya." },
+      { "no": "03", "title": "Absensi Pertemuan", "subtitle": "Check-in hadir setiap sesi", "desc": "Setiap pertemuan tercatat rapi. Riwayat kehadiran siap ditunjukkan kapan pun dibutuhkan." },
+      { "no": "04", "title": "Rangking Anggota", "subtitle": "Poin dari ketepatan dan kehadiran", "desc": "Peringkat dihitung dari ketepatan waktu mengumpulkan tugas dan kehadiran, diperbarui otomatis." }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Dari Anggota",
+    "title": "Kerja sama jadi jelas saat semua tahu harus berbuat apa.",
+    "lead": "Anggota IT Club bercerita soal cara kerja yang berubah sejak portal ini dipakai.",
+    "cta": "Gabung Sekarang",
+    "items": [
+      { "name": "Rani Putri", "role": "Ketua Ekskul", "quote": "Satu tempat untuk semua tugas. Tidak perlu lagi mengejar-ngejar lewat chat, dan tidak ada yang terlewat begitu saja." },
+      { "name": "Dimas Prasetyo", "role": "Koordinator Divisi Web", "quote": "Deadline terlihat jelas sejak awal, jadi tim bisa atur jadwal tanpa tebak-tebakan tiap pekan." },
+      { "name": "Ayu Lestari", "role": "Anggota Angkatan XII", "quote": "Nilai dan catatannya langsung masuk. Saya tahu bagian mana yang perlu diperbaiki berikutnya." }
+    ]
+  },
+  "integrations": {
+    "eyebrow": "Terhubung",
+    "title": "Alat yang sudah kamu pakai, nyambung semua.",
+    "lead": "Tautkan GitHub, Figma, dan Google Drive agar pengumpulan tugas tidak berpindah-pindah tempat.",
+    "cta": "Hubungkan Akun"
+  },
+  "footer": {
+    "eyebrow": "Dibangun untuk SMKN 1",
+    "title": "Mulai dari tugas pertama.",
+    "lead": "Masukkan email kamu untuk mendapatkan akses awal portal IT Club.",
+    "placeholder": "Alamat email",
+    "columns": [
+      { "title": "Navigasi", "links": ["Beranda", "Tentang", "Fitur", "Jadwal"] },
+      { "title": "Produk", "links": ["Portal", "Absensi", "Rangking", "Pengumuman"] },
+      { "title": "Sumber Daya", "links": ["Panduan", "FAQ", "Kontak", "Panduan Tugas"] },
+      { "title": "Lainnya", "links": ["Instagram", "WhatsApp", "GitHub", "YouTube"] }
+    ],
+    "rights": "© 2026 IT CLUB SMKN 1 SURABAYA",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan"
+  },
+  "status": {
+    "pending": "Menunggu",
+    "accepted": "Diterima",
+    "rejected": "Ditolak",
+    "graded": "Dinilai",
+    "late": "Terlambat",
+    "missing": "Tidak Kumpul"
+  }
+}

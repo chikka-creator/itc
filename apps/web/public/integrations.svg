@@ -1,0 +1,17 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9DB389"/>
+      <stop offset="55%" stop-color="#7C8C6B"/>
+      <stop offset="100%" stop-color="#59684D"/>
+    </linearGradient>
+    <radialGradient id="glow2" cx="55%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#D2E0C2" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#D2E0C2" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g2)"/>
+  <rect width="800" height="600" fill="url(#glow2)"/>
+  <text x="400" y="285" text-anchor="middle" font-family="system-ui, sans-serif" font-size="72" fill="#FFFFFF" fill-opacity="0.35">&#10035;</text>
+  <text x="400" y="345" text-anchor="middle" font-family="system-ui, sans-serif" font-size="16" font-weight="500" letter-spacing="3" fill="#FFFFFF" fill-opacity="0.55">&#8226; FOTO &#8226; INTEGRASI TOOL &#8226;</text>
+</svg>
